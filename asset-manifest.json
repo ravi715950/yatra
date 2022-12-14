@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yatra/static/css/main.f2868745.css",
+    "main.js": "/yatra/static/js/main.a7293a61.js",
+    "static/media/taj2.jpg": "/yatra/static/media/taj2.98dba95f5d4fb5bcfb82.jpg",
+    "index.html": "/yatra/index.html",
+    "main.f2868745.css.map": "/yatra/static/css/main.f2868745.css.map",
+    "main.a7293a61.js.map": "/yatra/static/js/main.a7293a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2868745.css",
+    "static/js/main.a7293a61.js"
+  ]
+}
